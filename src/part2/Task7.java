@@ -2,7 +2,7 @@ package part2;
 
 public class Task7 {
     public static void main(String[] args) {
-        int i = 207;
+        int i = 205;
         boolean bool = false;
         System.out.println(result (i, bool));
     }
