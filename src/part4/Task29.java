@@ -11,6 +11,6 @@ public class Task29 {
         for ( String word : words )
             res.append(word.toCharArray()[word.length() - 1]);
 
-        System.out.println("Result: " + res.toString());
+        System.out.println("Result: " + res);
     }
 }
