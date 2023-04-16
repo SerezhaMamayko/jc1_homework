@@ -19,7 +19,7 @@ public class Automate {
     }
     public int readBalance (){
         Scanner scanner = new Scanner (System.in);
-        System.out.println("Введите сумму которую хотите снять");
+        System.out.println("Введите сумму которую хотите снять ");
         int balance = scanner.nextInt();
         boolean isNumberCorrect;
         do {
